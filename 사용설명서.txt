@@ -1,0 +1,6 @@
+[config.ini]
+- url : 타겟 url
+- createTime : 생성 딜레이
+- minTime : 체류 최소 시간
+- maxTime : 체류 최대 시간
+- session : 세션 개수
